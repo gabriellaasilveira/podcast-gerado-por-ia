@@ -21,9 +21,9 @@ Projeto com o objetivo de gerar um podcast utilizando ferramentas de IA através
 ## ✨ Como foi feito ?
 
 - Roteiro gerado via chatgpt
-- Audio gerado pela elevenLabs
-- Canva Para gerar capas
-- Capcut para tratar aúdio e adicionar sons de fundo
+- Audio gerado pela ElevenLabs
+- Canva para gerar a capa
+- Capcut para tratar o aúdio e adicionar sons de fundo
 
 ## 🧠 Prompts
 
