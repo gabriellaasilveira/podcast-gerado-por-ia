@@ -11,6 +11,8 @@
 
 Projeto com o objetivo de gerar um podcast utilizando ferramentas de IA através de prompts mais trabalhado. Solicitado no bootcamp "Santander 2024-Fundamentos de IA para Devs" na plataforma da [DIO](https://dio.me).
 
+Podcast localizado em "output/podcast_codecast_editado.MP3"
+
 <div align="center">
     <audio src="output/podcast_codecast_editado.MP3" controls title="Podcast editado"></audio>
 </div>
